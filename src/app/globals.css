@@ -9,13 +9,13 @@
 html,
 body {
   font-family: "Inter", sans-serif;
-  background-color: #f9f9f9;
+  background-color: #f2f4f8;
   color: #1a1a1a;
   line-height: 1.6;
 }
 
 header {
-  background-color: #db6060;
+  background-color: #1e293b;
 
   padding: 1rem 2rem;
   margin-bottom: 2rem;
@@ -24,7 +24,7 @@ header {
 nav a {
   margin-right: 1.5rem;
   text-decoration: none;
-  color: #0f0e0a;
+  color: #e2e8f0;
   font-weight: 500;
 }
 
@@ -36,7 +36,7 @@ main {
   max-width: 800px;
   margin: auto;
   padding: 1rem 2rem;
-  background: #fff;
+  background: #fdf4f4;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
