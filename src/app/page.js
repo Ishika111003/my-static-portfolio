@@ -1,14 +1,14 @@
 export default function Home() {
   return (
     <main>
-      <h1>Hi, I'm Ishika 👋</h1>
+      <h1>Hi, I&apos;m Ishika 👋</h1>
       <p>
-        I’m a passionate frontend developer with a focus on building clean,
+        I&apos;m a passionate frontend developer with a focus on building clean,
         user-friendly interfaces using modern web technologies.
       </p>
       <p>
-        Welcome to my portfolio! Here you'll find more about me and the projects
-        I've built.
+        Welcome to my portfolio! Here you&apos;ll find more about me and the
+        projects I&apos;ve built.
       </p>
 
       <section style={{ marginTop: "2rem" }}>

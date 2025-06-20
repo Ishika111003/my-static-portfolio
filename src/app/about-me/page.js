@@ -4,7 +4,7 @@ export default function About() {
       <h1>About Me</h1>
 
       <p>
-        Hello! I'm Ishika, a frontend developer with a growing passion for
+        Hello! I&apos;m Ishika, a frontend developer with a growing passion for
         building clean and responsive web interfaces. I’m currently working as a{" "}
         <strong>Technical Intern</strong> at{" "}
         <strong>Unthinkable Solutions</strong> (Daffodils), located in Gurgaon.
