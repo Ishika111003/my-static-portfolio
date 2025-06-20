@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div>
       <h1>Welcome to My Portfolio</h1>
-      <p>This is the home page.</p>
+      <p>Explore my projects and learn more about me.</p>
     </div>
   );
 }

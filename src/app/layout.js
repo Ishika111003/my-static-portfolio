@@ -1,4 +1,5 @@
 import Link from "next/link";
+import "./globals.css";
 
 export const metadata = {
   title: "My Static Portfolio",
@@ -10,7 +11,7 @@ export default function RootLayout({ children }) {
       <body>
         <header>
           <nav>
-            <Link href="/">Home</Link> | <Link href="/about-me">About</Link> |{" "}
+            <Link href="/">Home</Link> <Link href="/about-me">About</Link>
             <Link href="/projects">Projects</Link>
           </nav>
         </header>
